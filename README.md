@@ -5,3 +5,28 @@ The Profit Analysis report
 
 ## Dataset Used
 - <a href="https://github.com/Sanketk05/Data-Analysis-Dashboard/blob/main/Excel%201%20Dashboard%20Project%20data%20updated.xlsx">Dataset</a>
+
+## Questions (KPIs and Pivot Table)
+- Total Orders
+- Total Sales
+- Total Commission
+- Total Quantity Sold
+- Total States we Work with
+- Sales by Product in RS
+- Date wise sales
+- State Wise Sale
+- State Wise total QTY
+- Total QTY by Product
+- Total Sales by Sales Rep
+- Total Commission by Sales Rep
+
+- Dashboard Interaction <a href="https://github.com/Sanketk05/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-20%20111901.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and Clean with respect to other data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to same dynamic.
+
+  ## Dashboard
+  ![Screenshot 2025-02-20 111901](https://github.com/user-attachments/assets/c861f2f1-2856-471e-9d52-3a93621fd59f)
