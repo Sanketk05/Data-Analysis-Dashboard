@@ -30,3 +30,11 @@ The Profit Analysis report
 
   ## Dashboard
   ![Screenshot 2025-02-20 111901](https://github.com/user-attachments/assets/c861f2f1-2856-471e-9d52-3a93621fd59f)
+
+  ## Project insight
+  - The States of Maharashtra and Gujarat are having more number of sales.
+  - Highest Sales of items Office chair(38%) and Projector(29%).
+  - Least Item sales Diary(3%) and White board(10%).
+  - Total Highest Quantity by item sold are Printer and Whiteboard.
+  - Total Highest sale done by Stacey and lowest sale done by Bob.
+  - Highest Commission by Bob and Lowest number of commission is seen by Laura.   
