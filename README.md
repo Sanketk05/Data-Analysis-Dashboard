@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I Developed a comprehensive project in Excel and Powerbi , creating multiple dashboards and tables to analyze the data. This Process involved several stages, including data Preprocessing, data cleaning and data visualization
+# Profit Analysis Report (Interactive Dashboard Creation using MS Excel)
+## Project Objective
+The Profit Analysis report
+●	Delivered a valuable tool for optimizing sales strategies and enhancing profitability in the stationery domain
